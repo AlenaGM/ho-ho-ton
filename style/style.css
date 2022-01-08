@@ -45,13 +45,13 @@
 
 .header{
     width:91%;
-    height: 52px;
+    height: 120px;
     margin: 30px auto 0 auto;
     display: flex;
     justify-content: flex-end;
     position: relative;
     /*background-image: url("../images/logo142.svg");*/
-    background: url(../images/christmas/skiingsanta.png) 0 -10px/52px no-repeat, url(../images/logo142.svg) 60px 0/100px no-repeat;
+    background: url(../images/logo142.svg) 20px 0/100px no-repeat, url(../images/christmas/tree.png) 0 -10px/50px no-repeat;
     background-repeat: no-repeat;
 }
 
