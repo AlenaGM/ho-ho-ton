@@ -24,7 +24,7 @@
 
 .body {
     width: 100%;
-    background: #235e6f;
+    background:  url(../images/christmas/220.png) 0 0/contain no-repeat, #235e6f;
 }
 
 .site {
