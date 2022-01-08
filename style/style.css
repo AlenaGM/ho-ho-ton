@@ -47,11 +47,11 @@
     width:91%;
     height: 120px;
     margin: 30px auto 0 auto;
+    padding-top: 30px;
     display: flex;
     justify-content: flex-end;
     position: relative;
-    /*background-image: url("../images/logo142.svg");*/
-    background: url(../images/logo142.svg) 20px 0/100px no-repeat, url(../images/christmas/tree.png) 0 -10px/50px no-repeat;
+    background: url(../images/logo142.svg) 50px 15px/100px no-repeat, url(../images/christmas/santa.png) 0 0px/60px no-repeat;
     background-repeat: no-repeat;
 }
 
@@ -59,7 +59,7 @@
     font-size:24px;
     line-height: 23px;
     position: relative;
-    top:17px;
+    top:0px;
     text-decoration-line: underline;
     font-family: "Inter";
     font-style: normal;
