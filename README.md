@@ -26,4 +26,5 @@ First place as a bonus:
 
 [ITGirlSchool]: <https://itgirlschool.com/en>
 [original site]: <https://psihosomatika.github.io/TravelInRussia/>
+[team-mate]: <https://github.com/VNeskoromnaya>
 [result]: <https://alenagm.github.io/Ho-ho-ton/>
