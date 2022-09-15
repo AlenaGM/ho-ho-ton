@@ -2,7 +2,7 @@
 
 New Year hackathon with [ITGirlSchool]. In team of 2 persons in 2-hours time we had to "decorate" [original site] for New Year Holidays.
 
-The list of tasks was quitу long: add a new-year banner, decorate a drop cap, add music, falling snow animation, etc. You can see a [result] here.
+The list of tasks was quitу long: add a new-year banner, decorate a drop cap, add music, falling snow animation, etc. You can check a [result] here.
 
 <img width="50%" alt="HomePage" src="../main/screenshots/photo_2022-01-08_13-05-04.jpg">
 
