@@ -7,7 +7,7 @@ The list of tasks was quitу long: add a new-year banner🎄, decorate a drop ca
 <img width="50%" alt="HomePage" src="../main/screenshots/photo_2022-01-08_13-05-04.jpg">
 
 
-Great experience! A lot of positive emotions! And the best team-mate I have ever had!
+Great experience! A lot of positive emotions! And the best [team-mate] 🥳 I have ever had!
 
 First place as a bonus:
 
