@@ -14,13 +14,15 @@ First place as a bonus 🥇:
 
 <img width="30%" alt="HomePage" src="../main/screenshots/photo_2022-09-15_11-11-59.jpg">
 
+<br><br>
+## Our Best Team Ever ! 😽😽
+
+[![Contributors](https://contrib.rocks/image?repo=AlenaGM/Ho-ho-ton)](https://github.com/AlenaGM/Ho-ho-ton/graphs/contributors)
+
 ##
 
   
   \* _New Year Event in [ITGirlSchool]_ 
-
-
-
 
 
 
