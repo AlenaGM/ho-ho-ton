@@ -1,6 +1,8 @@
 # ⛄ New Year Ho-ho-ton ⛄
 
-New Year hackathon with [ITGirlSchool]. In team of 2 ⛄⛄ in 2-hours time we "decorated" [original site] for New Year Holidays.
+_New Year hackathon with [ITGirlSchool]._ 
+
+In team of 2 ⛄⛄ in 2-hours time we "decorated" [original site] for New Year.
 
 The list of tasks was quite long: add a new-year banner🎄, decorate a drop cap 🎅, add music 🎵 add falling snow animation ❄️... 
 
